@@ -15,6 +15,11 @@ h1, h2, h3 {
     font-size: 1.5rem;
 }
 
+header, footer{
+    background-color: #000;
+    color: #dec9e9;
+}
+
 .wrapper{
     max-width: 940px;
     margin: 0 auto;
@@ -28,7 +33,7 @@ ol, ul{
 }
 
 nav a{
-    color: #dec9e9;
+    color: #DEC9E9;
     text-decoration: none;
 }
 
@@ -46,7 +51,7 @@ article > img{
 }
 
 li:nth-child(even){
-    color: dc33dc;
+    color: #dc33dc;
 
 }
 
